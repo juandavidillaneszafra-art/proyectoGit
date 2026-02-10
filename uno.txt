@@ -1,9 +1,1 @@
- HEAD
-Primera linea
-
-Segunda linea
-<<<<<<< HEAD
- RamaDos
-=======
-tercera linea
->>>>>>> RamaDos
+dos
